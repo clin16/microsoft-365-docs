@@ -18,6 +18,9 @@ description: "A Microsoft 365 trainable classifier is a tool you can train to re
 
 Classifying and labeling content so it can be protected and handled properly is the starting place for the information protection discipline. Microsoft 365 has three ways to classify content.
 
+## Requirements 
+To use this feature, you will need to be a Microsoft 365 E5 customer or have E5 compliance.
+
 ## Manually
 
 This method requires human judgment and action. An admin may either use the pre-existing labels and sensitive information types or create their own and then publish them. Users and admins apply them to content as they encounter it. You can then protect the content and manage its disposition.
